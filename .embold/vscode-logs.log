@@ -1,0 +1,73 @@
+2023-05-23 10:45:54 info: tempDirectory:/Users/sauravkathait/.vscode/extensions/embold-vscode.embold-0.1.5/temp
+2023-05-23 10:45:54 info: Extraction complete for source: /Users/sauravkathait/.vscode/extensions/embold-vscode.embold-0.1.5/resources/embold-scanner-archive.zip, destination: /Users/sauravkathait/.vscode/extensions/embold-vscode.embold-0.1.5/temp
+2023-05-23 10:45:54 info: Congratulations, your extension "Embold" is now active!
+2023-05-23 10:47:44 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-frontend/node_modules/.typescript-85V30pzo
+2023-05-23 10:47:44 error: SQLITE_ERROR: no such table: issues
+2023-05-23 10:47:45 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-frontend/node_modules/cra-template
+2023-05-23 10:47:45 error: SQLITE_ERROR: no such table: issues
+2023-05-23 10:47:45 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-frontend/node_modules/.cra-template-FtYrVgKw
+2023-05-23 10:47:45 error: SQLITE_ERROR: no such table: issues
+2023-05-23 11:30:38 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-frontend/public/logo192.png
+2023-05-23 11:30:38 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-frontend/public/logo512.png
+2023-05-23 11:30:38 error: SQLITE_ERROR: no such table: issues
+2023-05-23 11:30:38 error: SQLITE_ERROR: no such table: issues
+2023-05-23 12:52:50 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/api/routes/companies
+2023-05-23 12:52:50 error: SQLITE_ERROR: no such table: issues
+2023-05-23 12:57:15 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/api/routes/addRoute.js
+2023-05-23 12:57:15 error: SQLITE_ERROR: no such table: issues
+2023-05-23 12:57:36 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/api/model/add.js
+2023-05-23 12:57:36 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:12:27 info: file:///Users/sauravkathait/Desktop/acviss-assignment/images
+2023-05-24 13:12:27 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:21:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/trOBNJK
+2023-05-24 13:21:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/HEAD.lock
+2023-05-24 13:21:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/config.lock
+2023-05-24 13:21:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:21:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:21:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:21:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/%C3%A4
+2023-05-24 13:21:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/config.lock
+2023-05-24 13:21:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:21:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:01 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/config.lock
+2023-05-24 13:22:01 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:12 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/index.lock
+2023-05-24 13:22:12 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:24 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/index.lock
+2023-05-24 13:22:24 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/refs/heads/master.lock
+2023-05-24 13:22:24 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:24 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/HEAD.lock
+2023-05-24 13:22:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/config.lock
+2023-05-24 13:22:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/packed-refs.lock
+2023-05-24 13:22:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/refs/heads/master
+2023-05-24 13:22:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/refs/heads/main.lock
+2023-05-24 13:22:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/logs/refs/heads/master
+2023-05-24 13:22:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/refs/heads/master.lock
+2023-05-24 13:22:52 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/logs/refs/.tmp-renamed-log
+2023-05-24 13:22:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:22:52 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:23:01 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/config.lock
+2023-05-24 13:23:01 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/refs/remotes/origin/main.lock
+2023-05-24 13:23:01 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:23:01 error: SQLITE_ERROR: no such table: issues
+2023-05-24 13:24:04 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/refs/remotes/origin/main.lock
+2023-05-24 13:24:04 error: SQLITE_ERROR: no such table: issues
+2023-05-24 14:24:51 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/ORIG_HEAD.lock
+2023-05-24 14:24:51 error: SQLITE_ERROR: no such table: issues
+2023-05-24 14:24:56 info: file:///Users/sauravkathait/Desktop/acviss-assignment/acviss-backend/.git/refs/remotes/origin/main.lock
+2023-05-24 14:24:56 error: SQLITE_ERROR: no such table: issues
+2023-05-24 14:43:22 info: file:///Users/sauravkathait/Desktop/acviss-assignment/.git/tGYpKbn
+2023-05-24 14:43:22 info: file:///Users/sauravkathait/Desktop/acviss-assignment/.git/HEAD.lock
+2023-05-24 14:43:22 info: file:///Users/sauravkathait/Desktop/acviss-assignment/.git/config.lock
+2023-05-24 14:43:22 error: SQLITE_ERROR: no such table: issues
+2023-05-24 14:43:22 error: SQLITE_ERROR: no such table: issues
+2023-05-24 14:43:22 error: SQLITE_ERROR: no such table: issues
+2023-05-24 14:43:36 info: file:///Users/sauravkathait/Desktop/acviss-assignment/.git/config.lock
+2023-05-24 14:43:36 error: SQLITE_ERROR: no such table: issues

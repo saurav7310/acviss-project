@@ -1,0 +1,39 @@
+/* .cardContainer {
+  background: grey;
+  height: 100vh;
+  padding: 10px;
+} */
+
+.card {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  text-align: left;
+  background: white;
+  width: 400px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.cardHead {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+.cardHead img {
+  width: 200px;
+  /* height: 200px;s */
+  border-radius: 2px;
+}
+.cardHeading {
+  margin-left: 20px;
+}
+.cardHeading h2 {
+  font-family: "Gill Sans", sans-serif;
+}
+.cardDetails h3 {
+  font-family: "Gill Sans", sans-serif;
+}
+p {
+  font-family: "Gill Sans", sans-serif;
+}

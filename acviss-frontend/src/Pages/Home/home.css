@@ -1,0 +1,10 @@
+.cardContainer {
+  background: rgb(233, 227, 227);
+  height: 100vh;
+  padding: 10px;
+}
+.contentDiv {
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(68, 71, 71);
+}
